@@ -24,11 +24,6 @@ This project investigates the relationship between the height of the liquid colu
 ## Conclusion
 The study provides insights into the liquid column height relationship over time, with the model showing good agreement with experimental data after adjustments.
 
-## How to Run the Code
-1. **Data Collection**: Run `data_collection.py` to extract data from videos.
-2. **Data Analysis**: Use `data_analysis.py` to process and analyze data.
-3. **Model Dynamics**: Execute `model_dynamics.py` to model fluid oscillations and compare with experimental data.
-
 ## Contributions
 - **Om Singh**: Conducted experiments, collected data.
 - **Rutam Rajhansa**: Developed theoretical model, performed data analysis.
